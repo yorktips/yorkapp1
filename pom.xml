@@ -5,9 +5,21 @@
 	<artifactId>yorkapp</artifactId>
 	<packaging>war</packaging>
 	<version>1.0-SNAPSHOT</version>
-	<name>springmvcexample Maven Webapp</name>
+	<name>yorkapp Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 	<dependencies>
+
+  	<dependency>
+  		<groupId>com.ibm.watson.developer_cloud</groupId>
+  		<artifactId>java-sdk</artifactId>
+  		<version>3.3.0</version>
+  	</dependency>
+  	
+	<dependency>
+    	<groupId>org.apache.commons</groupId>
+    	<artifactId>commons-lang3</artifactId>
+    	<version>3.4</version>
+	</dependency>
 	
 		<dependency>
 			<groupId>junit</groupId>
@@ -30,8 +42,7 @@
 			<version>4.1.4.RELEASE</version>
 		</dependency>
 		
-		<!-- Tag libs support for view layer -->
-		
+		<!-- Tag libs support for view layer -->		
 		<dependency>
 			<groupId>javax.servlet</groupId>
 			<artifactId>jstl</artifactId>
@@ -49,6 +60,6 @@
 	</dependencies>
 	
 	<build>
-		<finalName>springmvcexample</finalName>
+		<finalName>yorkapp</finalName>
 	</build>
 </project>
