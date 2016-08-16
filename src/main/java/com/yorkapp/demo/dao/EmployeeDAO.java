@@ -1,8 +1,8 @@
-package com.howtodoinjava.demo.dao;
+package com.yorkapp.demo.dao;
 
 import java.util.List;
 
-import com.howtodoinjava.demo.model.EmployeeVO;
+import com.yorkapp.demo.model.EmployeeVO;
 
 public interface EmployeeDAO 
 {

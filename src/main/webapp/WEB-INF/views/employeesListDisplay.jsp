@@ -24,5 +24,8 @@
 		</c:forEach>
 	</table>
 
+    <p/>
+    
+    <a href = "/yorkapp/" class = "tooltip-test" data-toggle = "tooltip" data-placement = "left" title = "Back the main page">Back</a>
 </body>
 </html>

@@ -1,4 +1,4 @@
-package com.howtodoinjava.demo.model;
+package com.yorkapp.demo.model;
 
 import java.io.Serializable;
 

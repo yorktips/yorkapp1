@@ -27,14 +27,14 @@
 
 		<p>   
 			<ul class = "nav nav-pills nav-justified">
-				<li><a href = "#" class = "tooltip-test" data-toggle = "tooltip" 
+				<li><a href = "/yorkapp/employee-module/getAllEmployees" class = "tooltip-test" data-toggle = "tooltip" 
 					title = "AlchemyLanguage is a collection of APIs that offer text analysis through natural language processing. With AlchemyLanguage you can use any of the following functions: Keyword Extraction, Entity Extraction, Sentiment Analysis, Emotion Analysis, Concept Tagging, Relation Extraction, Taxonomy Classification, Author Extraction and more. You can train your own custom model based on a specific domain - such as legal or finance - using Watson Knowledge Studio."
 						>AlchemyLanguage</a></li>
 				<li><a href = "#" class = "tooltip-test" data-toggle = "tooltip" title = "AlchemyData News indexes 300k English articles of news and blog content each day and is enriched with natural language processing and visual recognition to allow for highly targeted search and trend analysis. Now you can query the world's news sources and blogs like a database. With AlchemyData News you can: Retrieve articles that match specific sentiment, keyword, taxonomy, and more; Identify key events like acquisitions or personnel changes; Create trend lines all with a single API call"
 						>AlchemyData</a></li>
 				<li><a href = "#" class = "tooltip-test" data-toggle = "tooltip" title = "The Text to Speech service processes text and natural language to generate synthesized audio output complete with appropriate cadence and intonation. It is available in several voices"
 						>Text to Speech</a></li>
-				<li><a href = "#" class = "tooltip-test" data-toggle = "tooltip" title = "Watson Personality Insights: Personality Insights derives insights from transactional and social media data to identify psychological traits which determine purchase decisions, intent and behavioral traits; utilized to improve conversion rates."
+				<li><a href = "/yorkapp/watson/personalityInsights" class = "tooltip-test" data-toggle = "tooltip" title = "Watson Personality Insights: Personality Insights derives insights from transactional and social media data to identify psychological traits which determine purchase decisions, intent and behavioral traits; utilized to improve conversion rates."
 						>Personality Insights</a></li>
 			</ul>
 		</p>

@@ -1,8 +1,8 @@
-package com.howtodoinjava.demo.service;
+package com.yorkapp.demo.service;
 
 import java.util.List;
 
-import com.howtodoinjava.demo.model.EmployeeVO;
+import com.yorkapp.demo.model.EmployeeVO;
 
 public interface EmployeeManager 
 {
