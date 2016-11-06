@@ -99,7 +99,7 @@
                   <label class="base--inline-label" for="lang-ja">Japanese</label>
                 </div>
 
-                <button type="submit" class="base--button input--submit-button2">Analyze</button>
+                <button type="submit" class="base--button input--submit-button2">Analyze456</button>
               </div>
 
             </form>
